@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/arrakh.com/precache-manifest.c408aa0361fe370651db0a8270247863.js"
+  "/arrakhDotCom/precache-manifest.7e3a9c89bb507cdf50f40fc8afb9abee.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/arrakh.com/index.html", {
+workbox.routing.registerNavigationRoute("/arrakhDotCom/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
