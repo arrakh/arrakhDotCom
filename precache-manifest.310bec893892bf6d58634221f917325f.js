@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/arrakhDotCom/static/js/runtime~main.b29ea989.js"
   },
   {
-    "revision": "dc1a75d40d0bbc1e923878dd884b6eca",
+    "revision": "e58ceac92718a39b51ac076185c9623a",
     "url": "/arrakhDotCom/index.html"
   }
 ];
