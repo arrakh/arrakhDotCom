@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "2d5220450d2d2893f512",
-    "url": "/arrakhDotCom/static/css/main.8b7d012e.chunk.css"
+    "revision": "73e6e0d5408ca98379cb",
+    "url": "/arrakhDotCom/static/css/main.6d64f976.chunk.css"
   },
   {
-    "revision": "2d5220450d2d2893f512",
-    "url": "/arrakhDotCom/static/js/main.2d522045.chunk.js"
+    "revision": "73e6e0d5408ca98379cb",
+    "url": "/arrakhDotCom/static/js/main.73e6e0d5.chunk.js"
   },
   {
     "revision": "6eb6405c9d99258624bc",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/arrakhDotCom/static/js/runtime~main.b29ea989.js"
   },
   {
-    "revision": "e58ceac92718a39b51ac076185c9623a",
+    "revision": "f2f4b5761e1d227e0c1c4c5d206b58d9",
     "url": "/arrakhDotCom/index.html"
   }
 ];
